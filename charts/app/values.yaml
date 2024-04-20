@@ -18,7 +18,7 @@ ingress:
     - host: demo.zimplify.tech
       paths: 
         - path: /
-          pathType: prefix
+          pathType: Prefix
           backend:
             serviceName: nextjs-demo
             servicePort: 3000
