@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  app:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-04-20T10:04:34.73064214Z"
+    description: A Helm chart for any application
+    digest: b14fec8a44b0c8a5a0866d2ca0f1c78c16f5fb6c0b295b0d75d8df07a24f2728
+    home: https://github.com/wkrzywiec/k8s-helm-helmfile/tree/master/helm
+    keywords:
+    - app
+    - java
+    - javascript
+    - angular
+    maintainers:
+    - name: Wojtek Krzywiec
+      url: https://github.com/wkrzywiec
+    name: app
+    type: application
+    urls:
+    - https://github.com/Zimplify/helm-charts/releases/download/app-0.1.1/app-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-04-20T10:04:34.730696301Z"
